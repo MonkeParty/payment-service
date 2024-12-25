@@ -1,6 +1,6 @@
 # Статусы платежей
-STATUS_PAID = "paid"
-STATUS_DECLINED = "declined"
+STATUS_PAID = "Success"
+STATUS_DECLINED = "Declined"
 
 # Сообщения
 MESSAGE_SUCCESS = "Оплата успешно завершена"

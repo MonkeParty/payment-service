@@ -12,5 +12,4 @@ async def process_payment(payment: PaymentRequest):
     """
     return PaymentResponse(
         status=STATUS_PAID,
-        message=MESSAGE_SUCCESS
     )
